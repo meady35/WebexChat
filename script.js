@@ -1,13 +1,13 @@
 // Set these for each customer demo...
 const CUSTOMER_NAME = "Truist Demo";
-const CUSTOMER_IMAGE = "";
+const CUSTOMER_IMAGE = "images/Screenshot 2024-10-09 at 11-01-38 Truist Bank Checking Savings Lending and Financial Services.png";
 
 
 // Set this stuff once and Fuggedaboutit...
-const WXCC_TELEPHONE_NUMBER = "";
+const WXCC_TELEPHONE_NUMBER = "17198365835";
 const IMI_SMS_WEBHOOK = "";
 const IMI_CALLBACK_WEBHOOK = "";
-const demoToolboxUserId = "";
+const demoToolboxUserId = "1314";
 const WHATSAPP_IMAGE = "";
 const AGENT_IMAGE = "images/agent.png";
 
