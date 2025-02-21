@@ -1,5 +1,5 @@
 // Set these for each customer demo...
-const CUSTOMER_NAME = "";
+const CUSTOMER_NAME = "Truist Demo";
 const CUSTOMER_IMAGE = "";
 
 
